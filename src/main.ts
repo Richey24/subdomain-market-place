@@ -2,6 +2,6 @@ import { createApp } from 'vue'
 import App from './App.vue'
 
 import $ from 'jquery';
-window.$ = $;
+(window as any).$ = $;
 
 createApp(App).mount('#app')
