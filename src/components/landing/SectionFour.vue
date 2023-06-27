@@ -29,7 +29,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo1.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -49,7 +49,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo2.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -69,7 +69,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="400" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo3.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -89,7 +89,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="600" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo4.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -109,7 +109,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo5.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -129,7 +129,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo6.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -149,7 +149,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="400" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo7.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -169,7 +169,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="600" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo8.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -189,7 +189,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo9.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -210,7 +210,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo11.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -230,7 +230,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo12.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -250,7 +250,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo13.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -270,7 +270,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo14.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -290,7 +290,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo15.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -310,7 +310,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo16.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -330,7 +330,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo17.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -350,7 +350,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo18.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -370,7 +370,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo19.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -390,7 +390,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo20.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -410,7 +410,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo21.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -430,7 +430,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo22.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -450,7 +450,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo23.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -470,7 +470,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo24.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -490,7 +490,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo25.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -510,7 +510,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo26.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -530,7 +530,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo27.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -550,7 +550,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo28.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -570,7 +570,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo29.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -590,7 +590,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo30.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -610,7 +610,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo31.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -630,7 +630,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo32.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -650,7 +650,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo33.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -670,7 +670,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo34.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -690,7 +690,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo35.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -710,7 +710,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo36.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -730,7 +730,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo37.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -750,7 +750,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo38.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -770,7 +770,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo39.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -790,7 +790,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo40.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -810,7 +810,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo41.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
@@ -830,7 +830,7 @@
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
-									<a href="demo42.html" title="demo">
+									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
