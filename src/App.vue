@@ -36,8 +36,6 @@ import TheFooter from './components/TheFooter.vue';
         <section-three></section-three>
 
         <section-four></section-four>
-
-        <section-five></section-five>
         
         <testimony-section></testimony-section>
         

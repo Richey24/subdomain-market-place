@@ -28,10 +28,10 @@
 						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo">
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="" data-appear-animation-duration="750">
-								<div class="portfolio-item hover-effect-1 text-center">
+								<div class="portfolio-item hover-effect-1 text-center ">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay temp-shadow thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -51,7 +51,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -71,7 +71,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -91,7 +91,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -111,7 +111,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -131,7 +131,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -151,7 +151,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -171,7 +171,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -191,7 +191,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -212,7 +212,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -232,7 +232,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -252,7 +252,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -272,7 +272,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -292,7 +292,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -312,7 +312,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -332,7 +332,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -352,7 +352,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -372,7 +372,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -392,7 +392,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -412,7 +412,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -432,7 +432,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -452,7 +452,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -472,7 +472,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -492,7 +492,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -512,7 +512,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -532,7 +532,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -552,7 +552,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -572,7 +572,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -592,7 +592,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -612,7 +612,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -632,7 +632,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -652,7 +652,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -672,7 +672,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -692,7 +692,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -712,7 +712,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -732,7 +732,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -752,7 +752,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -772,7 +772,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -792,7 +792,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -812,7 +812,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -832,7 +832,7 @@
 								<div class="portfolio-item hover-effect-1 text-center">
 									<a href="https://market-place-dashboard.azurewebsites.net/register" title="demo">
 										<span
-											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
 													src="landing/img/lazy.png" data-plugin-lazyload
@@ -851,3 +851,10 @@
 
 
 </template>
+<style>
+.temp-shadow {
+  box-shadow: 8px 12px 13px -7px rgba(0,0,0,0.8) !important;
+  -webkit-box-shadow: 8px 12px 13px -7px rgba(0,0,0,0.8) !important;
+  -moz-box-shadow: 8px 12px 13px -7px rgba(0,0,0,0.8) !important;
+}
+</style>

@@ -72,7 +72,7 @@
 									data-original="landing/img/intro1.jpg" width="918" height="496"
 									class="img-fluid border border-width-10 border-color-light box-shadow-3 rounded position-relative z-index-1 rounded"
 									alt="Screenshot 1" style="left: -110px;"></div>
-							<!-- <div class="intro3 z-index-3 position-absolute appear-animation"
+							<div class="intro3 z-index-3 position-absolute appear-animation"
 								data-appear-animation="fadeInUp" data-appear-animation-delay="800"
 								style="margin-top: 50px; top: 20%; right: 4%;">
 								<img src="landing/img/lazy.png" data-plugin-lazyload
@@ -83,10 +83,20 @@
 								<div class="position-absolute d-none d-md-flex align-items-end appear-animation"
 									data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100"
 									style="bottom: -135px; right: -20px;">
-									<strong class="text-color-dark mb-5">A lot of Store Desgin Templates!</strong>
+									<strong class="text-color-dark mb-5">A lot shops to get started</strong>
 									<span class="arrow hru" style="margin-bottom: 30px;"></span>
 								</div>
-							</div> -->
+							</div> 
+						</div>
+					</div>
+					<div class="intro row align-items-center justify-content-center justify-content-md-start">
+						<div class="col-md-12 text-center mt-5">
+							<a
+							class="btn btn-dark btn-modern btn-rounded btn-px-5 btn-py-3 text-2 appear-animation"
+							data-appear-animation="fadeIn" data-appear-animation-delay="250"
+							data-appear-animation-duration="600"
+							href="https://market-place-dashboard.azurewebsites.net/register" target="_blank"
+							rel="noopener">GET STARTED NOW!</a>
 						</div>
 					</div>
 				</div>

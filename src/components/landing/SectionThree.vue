@@ -112,7 +112,7 @@
 						</div>
 					</div>
 					<div class="text-center">
-						<a href="https://themeforest.net/item/porto-responsive-html5-template/4106987"
+						<a href="https://market-place-dashboard.azurewebsites.net/register"
 							class="btn btn-dark btn-rounded btn-modern btn-px-5 text-3 appear-animation"
 							data-appear-animation="fadeIn" data-appear-animation-delay="300" target="_blank"
 							rel="noopener">Join the Shopping Revolution!</a>

@@ -24,20 +24,17 @@
 							<div class="col-auto">
 								<h5 class="font-weight-semibold text-4 positive-ls-2 appear-animation"
 									data-appear-animation="fadeInRightShorter" data-appear-animation-delay="1100"
-									data-appear-animation-duration="750"><i class="fa fa-check"></i> SUPER HIGH
-									PERFORMANCE</h5>
+									data-appear-animation-duration="750"><i class="fa fa-check"></i> Secure Checkout </h5>
 							</div>
 							<div class="col-auto mx-5 my-2 my-lg-0">
 								<h5 class="font-weight-semibold text-4 positive-ls-2 appear-animation"
 									data-appear-animation="fadeInRightShorter" data-appear-animation-delay="1400"
-									data-appear-animation-duration="750"><i class="fa fa-check"></i> Strict Coding
-									Standards</h5>
+									data-appear-animation-duration="750"><i class="fa fa-check"></i> Order Management:</h5>
 							</div>
 							<div class="col-auto">
 								<h5 class="font-weight-semibold text-4 positive-ls-2 appear-animation"
 									data-appear-animation="fadeInRightShorter" data-appear-animation-delay="1600"
-									data-appear-animation-duration="750"><i class="fa fa-check"></i> Free Lifetime
-									Updates</h5>
+									data-appear-animation-duration="750"><i class="fa fa-check"></i> Customer Support</h5>
 							</div>
 						</div>
 					</div>
@@ -51,9 +48,8 @@
 						class="hover-dark col-6 col-md-4 text-center d-flex align-items-center justify-content-center py-4">
 						<a href="http://www.okler.net/" class="text-decoration-none" target="_blank" rel="noopener">
 							<div class="icon-box">
-								<i class="icon-bg fas fa-bars-1"></i>
-								<h4 class="text-4 mb-0">Customer Showcase<small
-										class="d-block p-relative bottom-4 opacity-6 ls-0">(SAMPLE SITES)</small></h4>
+                <img src="../../assets/img/shop2.png" width="100px" alt="">
+                <h4 class="text-4 mb-0">Customer Showcase</h4>
 							</div>
 						</a>
 					</div>
@@ -62,7 +58,7 @@
 						<a href="http://www.okler.net/open-a-ticket/" class="text-decoration-none" target="_blank"
 							rel="noopener">
 							<div class="icon-box">
-								<i class="icon-bg fas fa-bars-2"></i>
+                <img src="../../assets/img/support.png" width="100px" alt="">
 								<h4 class="text-4 mb-0">Support Center</h4>
 							</div>
 						</a>
@@ -71,7 +67,7 @@
 						class="hover-dark col-6 col-md-4 text-center divider-left-border border-color-light-2 d-flex align-items-center justify-content-center py-4">
 						<a href="documentation.html" class="text-decoration-none" target="_blank" rel="noopener">
 							<div class="icon-box">
-								<i class="icon-bg fas fa-bars-3"></i>
+                <img src="../../assets/img/doc.png" width="80px" alt="">
 								<h4 class="text-4 mb-0">Online Documentation</h4>
 							</div>
 						</a>
@@ -79,3 +75,5 @@
 				</div>
 			</section>
 </template>
+<script setup lang="ts">
+</script>

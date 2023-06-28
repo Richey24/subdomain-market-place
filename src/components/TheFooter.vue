@@ -24,9 +24,9 @@
 			</div>
 			<div class="copyright bg-dark py-4">
 				<div class="container text-center py-2">
-					<p class="mb-0 text-2">Copyright 2023 iMarketplace.World - All Rights Reserved - Powered by<a href="#"
-							class="text-color-light m-1">Okler</a> + <a href="#"
-							class="text-color-light m-1">P-Themes</a></p>
+					<p class="mb-0 text-2">Copyright 2023 iMarketplace.World - All Rights Reserved - Powered by
+						<a href="https://dreamtechlabs.net" class="text-color-light m-1">Dreamtech Labs</a>
+					</p>
 				</div>
 			</div>
 		</footer>
