@@ -38,7 +38,7 @@
 							</div>
 						</div>
 					</div>
-					<a href="https://themeforest.net/item/porto-responsive-html5-template/4106987"
+					<a href="https://market-place-dashboard.azurewebsites.net/register"
 						class="btn btn-dark btn-modern btn-rounded px-5 btn-py-3 text-4 appear-animation"
 						data-appear-animation="fadeIn" data-appear-animation-delay="1800"
 						data-appear-animation-duration="750" target="_blank" rel="noopener">GET STARTED NOW!</a>
