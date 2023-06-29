@@ -4,17 +4,16 @@
 					<div class="row align-items-center justify-content-between">
 						<div class="col-lg-4">
 							<h2 class="text-7 font-weight-semibold line-height-2 mb-2">Easily Build & Run Your Ecommerce Web Store.</h2>
-							<p>A complete suite of tools that are easy to use to get your web store up and running in no time.</p>
+							<p>A platform that allows you to easily and quickly get your web store up and running.</p>
 						</div>
 						<div class="col-sm-4 col-lg-auto icon-box text-center mb-4">
 							<!-- <i class="icon-bg icon-1"></i> -->
-							<h4 class="font-weight-bold custom-font-size-2 line-height-3 mb-0">Super High<br>Performance
+							<h4 class="font-weight-bold custom-font-size-2 line-height-3 mb-0">High Performance
 							</h4>
 						</div>
 						<div class="col-sm-4 col-lg-auto icon-box text-center mb-4">
 							<!-- <i class="icon-bg icon-2"></i> -->
-							<h4 class="font-weight-bold custom-font-size-2 line-height-3 mb-0">Created With Top
-								<br>Extensions</h4>
+							<h4 class="font-weight-bold custom-font-size-2 line-height-3 mb-0">Ads Promotions</h4>
 						</div>
 						<div class="col-sm-4 col-lg-auto icon-box text-center mb-4">
 							<!-- <i class="icon-bg icon-3"></i> -->
@@ -37,8 +36,6 @@
 							data-original="landing/img/theme_options.png" width="1600" height="536" class="img-fluid"
 							alt="The Most Customizable Template">
 					</div>
-
-			
 				</div>
 			</section>
 
