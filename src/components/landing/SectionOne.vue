@@ -51,9 +51,9 @@
 					</div>
 					<div class="intro row align-items-center justify-content-center justify-content-md-start">
 						<div class="col-3 pr-0 pl-3 z-index-2">
-							<!-- <img src="landing/img/lazy.png" data-plugin-lazyload
+							<!-- <img src="/landing/img/lazy.png" data-plugin-lazyload
 								data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-								data-original="landing/img/intro2.jpg" width="206" height="436"
+								data-original="/landing/img/intro2.jpg" width="206" height="436"
 								class="img-fluid border border-width-10 border-color-light box-shadow-3 rounded d-none d-md-block appear-animation"
 								alt="Screenshot 2" data-appear-animation="fadeInUp" data-appear-animation-delay="600"
 								style="margin-top: 80px; box-sizing: initial;">
@@ -67,17 +67,17 @@
 						<div class="col-11 col-md-9 pl-0 pr-5 pb-5 pb-md-0 mb-5 mb-md-0">
 							<div class="intro2 pt-5 pt-md-0 mt-5 mt-lg-0 appear-animation pr-5"
 								data-appear-animation="fadeInUp" data-appear-animation-delay="400"><img
-									src="landing/img/lazy.png" data-plugin-lazyload
+									src="/landing/img/lazy.png" data-plugin-lazyload
 									data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-									data-original="landing/img/intro1.jpg" width="918" height="496"
+									data-original="/landing/img/intro1.jpg" width="918" height="496"
 									class="img-fluid border border-width-10 border-color-light box-shadow-3 rounded position-relative z-index-1 rounded"
 									alt="Screenshot 1" style="left: -110px;"></div>
 							<div class="intro3 z-index-3 position-absolute appear-animation"
 								data-appear-animation="fadeInUp" data-appear-animation-delay="800"
 								style="margin-top: 50px; top: 20%; right: 4%;">
-								<img src="landing/img/lazy.png" data-plugin-lazyload
+								<img src="/landing/img/lazy.png" data-plugin-lazyload
 									data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-									data-original="landing/img/intro3.jpg" width="381" height="195"
+									data-original="/landing/img/intro3.jpg" width="381" height="195"
 									class="img-fluid border border-width-10 border-color-light box-shadow-3 rounded"
 									alt="Screenshot 3" style="box-sizing: initial;">
 								<div class="position-absolute d-none d-md-flex align-items-end appear-animation"

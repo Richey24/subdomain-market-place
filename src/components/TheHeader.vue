@@ -10,9 +10,9 @@
 									data-plugin-options="{'accY': 100}">
 									<a href="#" class="goto-top"><img alt="iMarketplace.World" width="150" height="75"
 											data-sticky-width="82" data-sticky-height="36" data-sticky-top="0"
-											src="assets/images/logo.png" data-plugin-lazyload
+											src="/assets/images/logo.png" data-plugin-lazyload
 											data-plugin-options="{'threshold': 500}"
-											data-original="assets/images/logo.png"></a>
+											data-original="/assets/images/logo.png"></a>
 								</div>
 							</div>
 						</div>

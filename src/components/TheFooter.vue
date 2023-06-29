@@ -3,8 +3,8 @@
 			class="bg-color-dark-scale-2 border border-right-0 border-left-0 border-bottom-0 border-color-light-3 mt-0">
 			<div class="container text-center my-3 py-5">
 				<a href="#" class="goto-top">
-					<img src="assets/images/logo.png" data-plugin-lazyload data-plugin-options="{'threshold': 500}"
-						data-original="assets/images/logo.png" width="102" height="45" class="mb-4 appear-animation"
+					<img src="/assets/images/logo.png" data-plugin-lazyload data-plugin-options="{'threshold': 500}"
+						data-original="/assets/images/logo.png" width="102" height="45" class="mb-4 appear-animation"
 						alt="iMarketplace.World" data-appear-animation="fadeIn" data-appear-animation-delay="300">
 				</a>
 				<p class="text-4 mb-4">iMarketplace.World is exclusively available at iMarketplace.World by <a

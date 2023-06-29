@@ -34,8 +34,8 @@
 											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay temp-shadow thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop1.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop1.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -54,8 +54,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop2.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop2.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -74,8 +74,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop3.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop3.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -94,8 +94,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop4.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop4.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -114,8 +114,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop5.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop5.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -134,8 +134,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop6.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop6.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -154,8 +154,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop7.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop7.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -174,8 +174,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop8.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop8.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -194,8 +194,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop9.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop9.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -215,8 +215,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop11.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop11.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -235,8 +235,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop12.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop12.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -255,8 +255,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop13.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop13.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -275,8 +275,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop14.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop14.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -295,8 +295,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop15.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop15.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -315,8 +315,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop16.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop16.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -335,8 +335,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop17.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop17.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -355,8 +355,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop18.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop18.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -375,8 +375,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop19.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop19.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -395,8 +395,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop20.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop20.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -415,8 +415,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop21.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop21.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -435,8 +435,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop22.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop22.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -455,8 +455,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop23.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop23.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -475,8 +475,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop24.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop24.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -495,8 +495,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop25.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop25.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -515,8 +515,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop26.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop26.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -535,8 +535,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop27.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop27.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -555,8 +555,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop28.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop28.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -575,8 +575,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop29.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop29.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -595,8 +595,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop30.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop30.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -615,8 +615,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop31.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop31.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -635,8 +635,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop32.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop32.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -655,8 +655,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop33.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop33.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -675,8 +675,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop34.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop34.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -695,8 +695,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop35.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop35.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -715,8 +715,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop36.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop36.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -735,8 +735,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop37.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop37.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -755,8 +755,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop38.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop38.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -775,8 +775,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop39.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop39.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -795,8 +795,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop40.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop40.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -815,8 +815,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop41.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop41.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>
@@ -835,8 +835,8 @@
 											class="thumb-info thumb-info-no-zoom temp-shadow thumb-info-no-overlay thumb-info-no-bg">
 											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
 												<img data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-													src="landing/img/lazy.png" data-plugin-lazyload
-													data-original="landing/img/previews/shop42.jpg" width="350"
+													src="/landing/img/lazy.png" data-plugin-lazyload
+													data-original="/landing/img/previews/shop42.jpg" width="350"
 													height="259" class="img-fluid" alt="">
 											</span>
 										</span>

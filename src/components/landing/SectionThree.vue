@@ -10,9 +10,9 @@
 						<div class="col-lg-6 offset-lg-1 mb-5">
 							<div class="appear-animation" data-appear-animation="fadeIn"
 								data-appear-animation-delay="500">
-								<img src="landing/img/lazy.png" data-plugin-lazyload
+								<img src="/landing/img/lazy.png" data-plugin-lazyload
 									data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-									data-original="landing/img/porto_dots.png" width="154" height="146"
+									data-original="/landing/img/porto_dots.png" width="154" height="146"
 									class="position-absolute top-auto" alt="6 reasons"
 									style="bottom: 184px; left: 70px;">
 							</div>
