@@ -5,7 +5,7 @@ import SectionOne from './components/landing/SectionOne.vue';
 import SectionTwo from './components/landing/SectionTwo.vue';
 import SectionThree from './components/landing/SectionThree.vue';
 import SectionFour from './components/landing/SectionFour.vue';
-import SectionFive from './components/landing/SectionFive.vue';
+// import SectionFive from './components/landing/SectionFive.vue';
 import SectionSix from './components/landing/SectionSix.vue';
 import TestimonySection from './components/landing/TestimonySection.vue';
 import TheFooter from './components/TheFooter.vue';
