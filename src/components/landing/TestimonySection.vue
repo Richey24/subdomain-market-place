@@ -19,12 +19,12 @@
 						<p class="text-default text-center mb-4">Real people, real stories. Hear from our founder.</p>
 
 						<div class="owl-carousel carousel-center-active-item-2 nav-style-4 mb-4 pb-3"
-							data-plugin-options="{'items': 1,'center': true, 'loop': true, 'nav': true, 'dots': false}">
+							data-plugin-options="{'items': 1,'center': true, 'loop': false, 'nav': true, 'dots': false}">
 
 							<div>
 								<div class="d-flex flex-column flex-md-row justify-content-between mb-4">
 									<div class="author">
-										<h4 class="text-5 mb-0">I.B. Israel</h4>
+										<h4 class="text-5 mb-0">L.Silva</h4>
 										<span class="opacity-7">Boogie Sports Wear</span>
 									</div>
 									<span class="star-rating">

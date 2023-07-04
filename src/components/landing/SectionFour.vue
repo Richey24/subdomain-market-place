@@ -45,7 +45,7 @@
 							</div>
 						</div>
 
-						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo">
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 ">
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="200" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
@@ -65,7 +65,7 @@
 							</div>
 						</div>
 
-						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo">
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 ">
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="400" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
@@ -85,7 +85,7 @@
 							</div>
 						</div>
 
-						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo">
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 ">
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="600" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">
@@ -105,7 +105,7 @@
 							</div>
 						</div>
 
-						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo">
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 ">
 							<div class="appear-animation" data-appear-animation="fadeInUpShorter"
 								data-appear-animation-delay="" data-appear-animation-duration="750">
 								<div class="portfolio-item hover-effect-1 text-center">

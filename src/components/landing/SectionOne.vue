@@ -67,9 +67,7 @@
 						<div class="col-12 col-md-12 pl-0 pr-5 pb-5 pb-md-0 mb-5 mb-md-0">
 							<div class="intro2 pt-5 pt-md-0 mt-5 mt-lg-0 appear-animation pr-5"
 								data-appear-animation="fadeInUp" data-appear-animation-delay="400">
-                 <video width="918" height="496" autoplay>
-                   <source src="/landing/video/vid1.mp4" type="video/mp4">
-								</video>
+                   <video-player  width="918" height="496" src="landing/video/vid1.mp4" autoplay></video-player>
               </div>
 							<div class="intro3 z-index-3 position-absolute appear-animation"
 								data-appear-animation="fadeInUp" data-appear-animation-delay="800"
