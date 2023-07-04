@@ -27,7 +27,7 @@
                 </div>
                 <div class="col-lg-6 mb-5 img-fluid appear-animation" data-appear-animation="fadeIn"
                 data-appear-animation-delay="1200" data-appear-animation-duration="750">
-                    <img src="../../assets/bg.png" class="img-fluid" alt="">
+                    <img src="../../assets/bg.png" class="img-fluid" alt="" height="200px">
                 </div>
             </div>
         </div>

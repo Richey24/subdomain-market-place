@@ -18,8 +18,8 @@
 								data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500"
 								data-appear-animation-duration="750">iMarketplace.World is simply a better choice for your new
 								web store. Our store templates are designed specifically to cater to the unique needs & preferences
-								of sellers & buyers of our community. We're more than just a shopping platform & destination; we're a community. 
-								Your search for the best solution to sell your goods is now over, create your web store here and join us & our league of 
+								of sellers & buyers of our community. We're more than just a shopping platform & destination; we're a community.
+								Your search for the best solution to sell your goods is now over, create your web store here and join us & our league of
 								happy customers.</p>
 						</div>
 						<!-- <div class="col-sm-6 col-lg-4 offset-lg-2 counter mb-5 mb-md-0">
@@ -64,14 +64,13 @@
 								<strong class="text-color-dark mb-3">Modern Designs!</strong>
 							</div> -->
 						</div>
-						<div class="col-11 col-md-9 pl-0 pr-5 pb-5 pb-md-0 mb-5 mb-md-0">
+						<div class="col-12 col-md-12 pl-0 pr-5 pb-5 pb-md-0 mb-5 mb-md-0">
 							<div class="intro2 pt-5 pt-md-0 mt-5 mt-lg-0 appear-animation pr-5"
-								data-appear-animation="fadeInUp" data-appear-animation-delay="400"><img
-									src="/landing/img/lazy.png" data-plugin-lazyload
-									data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-									data-original="/landing/img/intro1.jpg" width="918" height="496"
-									class="img-fluid border border-width-10 border-color-light box-shadow-3 rounded position-relative z-index-1 rounded"
-									alt="Screenshot 1" style="left: -110px;"></div>
+								data-appear-animation="fadeInUp" data-appear-animation-delay="400">
+                 <video width="918" height="496" autoplay>
+                   <source src="/landing/video/vid1.mp4" type="video/mp4">
+								</video>
+              </div>
 							<div class="intro3 z-index-3 position-absolute appear-animation"
 								data-appear-animation="fadeInUp" data-appear-animation-delay="800"
 								style="margin-top: 50px; top: 20%; right: 4%;">
