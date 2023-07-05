@@ -4,10 +4,10 @@
        
          <img src="/assets/bg/bag_ele.png" class="home-bag" alt=""/>
 
-        <div class="container mt-10">
-            <div class="row align-items-center pt-3" >
+        <div class="container mt-5">
+            <div class="row align-items-center" >
                 <img src="/assets/bg/bag_ele.png" class="home-bag" alt="">
-                <div class="col-lg-6">
+                <div class="col-md-8">
                     <h5 class="text-primary font-weight-bold mb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-duration="750">Discover Endless Possibilities
                     </h5>
                     <h1 class="font-weight-bold line-height-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400" data-appear-animation-duration="750">
@@ -17,17 +17,16 @@
                         </span>
                     </h1>
                     <p class="custom-font-size-1 appear-animation text-dark text-bold" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="900" data-appear-animation-duration="750">iMarketplace.World is simply
+                        data-appear-animation-delay="900" data-appear-animation-duration="750z">iMarketplace.World is simply
                         the best choice for your new web store. Our web store templates targeted to our community we believe are among the most
                         popular in our world without end. <br> <br>
                         <a href="#intro" data-hash data-hash-offset="120" class="btn  btn-gradient btn-purple font-weight-semibold text-color-light font-weight-semibold text-1">Join the Shopping Revolution!</a>
                     </p>
-
-                   
                 </div>
-                <div class="col-lg-6 mb-5 img-fluid appear-animation" data-appear-animation="fadeIn"
+
+                <div class="col-md-4 mb-5 appear-animation" data-appear-animation="fadeIn"
                 data-appear-animation-delay="1200" data-appear-animation-duration="750">
-                    <img src="../../assets/bg.png" class="img-fluid" alt="" height="200px">
+                    <img src="../../assets/landing.png" class="img-fluid" alt="" height="500px">
                 </div>
             </div>
         </div>
