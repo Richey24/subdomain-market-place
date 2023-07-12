@@ -22,53 +22,18 @@
 								Your search for the best solution to sell your goods is now over, create your web store here and join us & our league of
 								happy customers.</p>
 						</div>
-						<!-- <div class="col-sm-6 col-lg-4 offset-lg-2 counter mb-5 mb-md-0">
-							<div class="appear-animation" data-appear-animation="fadeInLeftShorter"
-								data-appear-animation-delay="750" data-appear-animation-duration="750">
-								<h3 class="font-weight-extra-bold text-14 line-height-1 mb-2" data-to="45"
-									data-append="+">0</h3>
-								<label class="font-weight-semibold negative-ls-1 text-color-dark mb-0">Included
-									Web Store Design Templates</label>
-								<p class="mb-0"><a href="#demos" data-hash data-hash-offset="120"
-										class="text-color-primary d-flex align-items-center justify-content-center text-4 font-weight-semibold text-decoration-none">VIEW
-										Store templates <i class="fas fa-long-arrow-alt-right ml-2 text-4 mb-0"></i></a></p>
-							</div>
-						</div>
-						<div class="col-sm-6 col-lg-4 counter divider-left-border">
-							<div class="appear-animation" data-appear-animation="fadeInRightShorter"
-								data-appear-animation-delay="750" data-appear-animation-duration="750">
-								<h3 class="font-weight-extra-bold text-14 line-height-1 mb-2" data-to="100"
-									data-append="K+">0</h3>
-								<label class="font-weight-semibold negative-ls-1 text-color-dark mb-0">Websites Using
-									This Technology</label>
-								<p class="mb-0"><a
-										href="https://themeforest.net/item/porto-responsive-html5-template/4106987"
-										class="text-color-primary d-flex align-items-center justify-content-center text-4 font-weight-semibold text-decoration-none"
-										target="_blank" rel="noopener">BUILD WEBSITE <i
-											class="fas fa-long-arrow-alt-right ml-2 text-4 mb-0"></i></a></p>
-							</div>
-						</div> -->
+					
 					</div>
 					<div class="intro row align-items-center justify-content-center justify-content-md-start">
-						<div class="col-3 pr-0 pl-3 z-index-2">
-							<!-- <img src="/landing/img/lazy.png" data-plugin-lazyload
-								data-plugin-options="{'threshold': 500, 'effect':'fadeIn'}"
-								data-original="/landing/img/intro2.jpg" width="206" height="436"
-								class="img-fluid border border-width-10 border-color-light box-shadow-3 rounded d-none d-md-block appear-animation"
-								alt="Screenshot 2" data-appear-animation="fadeInUp" data-appear-animation-delay="600"
-								style="margin-top: 80px; box-sizing: initial;">
-							<div class="position-absolute d-none d-md-flex align-items-end appear-animation"
-								data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="900"
-								style="bottom: -60px; right: -90px;">
-								<span class="arrow brlt" style="margin-right: -40px; margin-bottom: 23px;"></span>
-								<strong class="text-color-dark mb-3">Modern Designs!</strong>
-							</div> -->
-						</div>
+						<div class="col-3 pr-0 pl-3 z-index-2"></div>
 						<div class="col-12 col-md-12 pl-0 pr-5 pb-5 pb-md-0 mb-5 mb-md-0">
-							<div class="intro2 pt-5 pt-md-0 mt-5 mt-lg-0 appear-animation pr-5"
-								data-appear-animation="fadeInUp" data-appear-animation-delay="400">
-                   <video-player  width="918" height="496" src="landing/video/vid1.mp4" autoplay></video-player>
-              </div>
+							<div class="intro2 pt-5 pt-md-0 mt-5 mt-lg-0 appear-animation pr-5" 
+							     data-appear-animation="fadeInUp" 
+							     data-appear-animation-delay="400">
+							     <video loop="true" autoplay="true" controls  width="918" height="496">
+									<source id="mp4"  src="landing/video/vid1.mp4" type="video/mp4">
+								</video>
+              				</div>
 							<div class="intro3 z-index-3 position-absolute appear-animation"
 								data-appear-animation="fadeInUp" data-appear-animation-delay="800"
 								style="margin-top: 50px; top: 20%; right: 4%;">
@@ -89,7 +54,7 @@
 					<div class="intro row align-items-center justify-content-center justify-content-md-start">
 						<div class="col-md-12 text-center mt-5">
 							<a
-							class="btn btn-dark btn-modern btn-rounded btn-px-5 btn-py-3 text-2 appear-animation"
+							class="btn btn-dark btn-modern btn-rounded btn-purple btn-px-5 btn-py-3 text-2 appear-animation"
 							data-appear-animation="fadeIn" data-appear-animation-delay="250"
 							data-appear-animation-duration="600"
 							href="https://market-place-dashboard.azurewebsites.net/register" target="_blank"

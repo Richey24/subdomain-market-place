@@ -16,12 +16,14 @@
                             <span class="d-inline-block text-primary highlighted-word highlighted-word-rotate highlighted-word-animation-1 alternative-font-1 font-weight-bold text-1 ml-2">US</span>
                         </span>
                     </h1>
-                    <p class="custom-font-size-1 appear-animation text-dark text-bold" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="900" data-appear-animation-duration="750z">iMarketplace.World is simply
+                    <h4 class="custom-font-size-1 appear-animation text-dark text-bold" data-appear-animation="fadeInUpShorter"
+                        data-appear-animation-delay="900" data-appear-animation-duration="750">iMarketplace.World is simply
                         the best choice for your new web store. Our web store templates targeted to our community we believe are among the most
                         popular in our world without end. <br> <br>
-                        <a href="#intro" data-hash data-hash-offset="120" class="btn  btn-gradient btn-purple font-weight-semibold text-color-light font-weight-semibold text-1">Join the Shopping Revolution!</a>
-                    </p>
+
+                        <p class="custom-font-size-1 appear-animation text-dark text-bold" data-appear-animation="fadeInUpShorter"><b> NOTE: </b> Eligible registrant must be an Israelite i.e. African American, Blacks of the diaspora, Hispanic or Native American, 18 years or older. </p>
+                        <a href="#intro" data-hash data-hash-offset="120" class="btn btn-px-5 appear-animation btn-gradient btn-purple font-weight-semibold text-color-light font-weight-semibold text-1"  data-appear-animation="fadeInRightShorter" data-appear-animation-delay="700">Join the Shopping Revolution!</a>
+                    </h4>
                 </div>
 
                 <div class="col-md-4 mb-5 appear-animation" data-appear-animation="fadeIn"

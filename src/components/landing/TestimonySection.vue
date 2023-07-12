@@ -153,7 +153,7 @@
 							class="btn btn-dark btn-modern btn-rounded btn-px-5 btn-py-3 text-2 appear-animation"
 							data-appear-animation="fadeIn" data-appear-animation-delay="250"
 							data-appear-animation-duration="600"
-							href="https://themeforest.net/item/porto-responsive-html5-template/4106987" target="_blank"
+							href="https://market-place-dashboard.azurewebsites.net/register" target="_blank"
 							rel="noopener">GET STARTED NOW!</a></p>
 				</div>
 				<div class="section-funnel-layer-bottom">
