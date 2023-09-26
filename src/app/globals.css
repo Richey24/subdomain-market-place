@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home-content {
+    background-image: url(/bg/bground.png) !important;
+    width: 100% !important;
+    height: 100vh!important;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+}
+
+/* .mt-10 {
+    margin-top: 10%;
+} */
+
+.text-primary {
+    color: #a537fd !important;
+}
+
+.home-bag {
+    position: absolute;
+    top: auto;
+    left: 65px;
+    bottom: 0;
+}
+
+.btn-purple {
+    background: #a537fd!important;
+}
+
+.pricingCard{
+    border-top:1px solid black;
+    border-left:1px solid black;
+    border-right:6px solid black;
+    border-bottom:6px solid black;
+}
+
+.arrow {
+    background: transparent url(/landing/img/arrows.png) no-repeat 0 0;
+    width: 47px;
+    height: 120px;
+    display: inline-block;
+    position: relative;
+}
+.highlighted-word.highlighted-word-animation-1:after {
+    content: '';
+    position: absolute;
+    right: calc(100% - 74px);
+    bottom: -6px;
+    background: url(/landing/img/pencil-blue-line.png);
+    width: 7rem;
+    height: 15px;
+    -webkit-animation-name: pencilAnimation;
+    animation-name: pencilAnimation;
+    -webkit-animation-duration: 500ms;
+    animation-duration: 500ms;
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    overflow: hidden;
+    transform: rotate(180deg);
+    background-repeat: no-repeat;
+
+}
+
+.highlighted-word-animation-1-no-rotate:after {
+    transform: rotateX(0)!important;
+}
+
+.highlighted-word.highlighted-word-animation-1.highlighted-word-animation-1-2:after {
+    -webkit-animation-name: pencilAnimation2;
+    animation-name: pencilAnimation2;
+    right: calc(100% - 115px);
+    background: url(/landing/img/pencil-blue-line-2.png);
+    background-repeat: no-repeat;
+}
+
+section.section.section-funnel .section-funnel-layer-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 96px 0;
+    padding: 6rem 0;
+    transform: translate3d(0,50%,0);
+}
+
+section.section.section-funnel .section-funnel-layer:first-child {
+    transform: skewY(-4.7deg);
+}
+section.section.section-funnel .section-funnel-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #FFF;
+}
+
+section.section.section-funnel .section-funnel-layer:nth-child(2) {
+    transform: skewY(4.7deg);
+}
+
+
+
+html .bg-color-light, html .bg-light {
+    background-color: #FFF!important;
+}
+
+section.section {
+    background: #f7f7f7;
+    border-top: 5px solid #f1f1f1;
+    padding: 50px 0;
+}
