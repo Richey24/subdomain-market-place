@@ -43,7 +43,17 @@ const MainSection: React.FC = () => {
               iMarketplace.World is simply the best choice for your new web
               store. Our web store templates targeted to our community we
               believe are among the most popular in our world without end.{" "}
-              <br /> <br />
+              <br />
+                    <br />
+              <span className="animate__animated animate__fadeInRight animate__delay-600ms animate__faster">
+                <span
+                  className="inline-block text-primary highlighted-word highlighted-word-rotate highlighted-word-animation-1
+                 alternative-font-1 font-bold text-1 ml-2 relative"
+                >
+                  You can join NOW to start creating your store for FREE!
+                </span>
+              </span>
+              <br />
               <p className="custom-font-size-1 mt-6 mb-8">
                 <b>NOTE:</b> Eligible registrant must be an Israelite i.e.
                 African American, Blacks of the diaspora, Hispanic or Native
