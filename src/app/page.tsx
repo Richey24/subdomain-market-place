@@ -34,7 +34,7 @@ export default function Home() {
                 className="font-bold md:text-[3.5rem] appear-animation animated fadeInUpShorter appear-animation-visible"
                 style={{ animationDelay: "600ms" }}
               >
-                People Already Using 'iMarketplace.World' Store Design
+                People Already Using {"'iMarketplace.World'"} Store Design
                 Technology
               </span>
             </h2>
@@ -42,7 +42,7 @@ export default function Home() {
               className="font-bold text-md text-gray-500 text-center appear-animation animated fadeInUpShorter appear-animation-visible"
               style={{ animationDelay: "750ms" }}
             >
-              100K+ IN ALL iMARKETPLACE.WORLD'S TECHNOLOGY'S VERSIONS
+              100K+ IN ALL {"iMARKETPLACE.WORLD'S TECHNOLOGY'S"} VERSIONS
             </p>
             <div
               className="appear-animation animated fadeInUpShorter appear-animation-visible"
@@ -86,12 +86,12 @@ export default function Home() {
                     </span>
                   </div>
                   <p className="mb-0">
-                    " Working with IMarket Place has been an absolute pleasure.
+                    {'"Working'} with IMarket Place has been an absolute pleasure.
                     Their eCommerce platform provided an intuitive and
                     user-friendly interface, making it incredibly easy for me to
                     set up my online store. The seamless integration with
                     various payment gateways allowed me to offer a secure and
-                    convenient checkout experience to my customers{" "}
+                    convenient checkout experience to my {'customers"'}
                   </p>
                 </div>
               </SwiperSlide>
