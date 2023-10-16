@@ -25,10 +25,12 @@ function PricingCard({
   isPrimary,
 }: InferProps<typeof reportModalProps>) {
   return (
-    <div className={`relative   border-black pricingCard h-full md:h-[50rem]`}>
+    <div
+      className={`relative   border-black pricingCard h-full md:h-[54rem] pt-6`}
+    >
       {tag && (
         <button
-          className={`"absolute top-0 left-2/4 -translate-y-2/4 translate-x-2/4 px-6 py-2 mb-1 font-semibold rounded-md ${
+          className={`absolute shadow-lg top-0 left-2/4 -translate-y-2/4 -translate-x-2/4 px-6 py-2 mb-1 font-semibold rounded-md ${
             isMain
               ? "bg-purple-100 text-purple-600 "
               : "bg-amber-100 text-amber-600 "
@@ -60,7 +62,12 @@ function PricingCard({
           </button>
           {saving && <p className="underline mb-6">{saving}</p>}
         </div>
-        <div className="text-center text-2xl font-semibold">{price}</div>
+        <div className="text-center bg-gray-200 rounded-md font-medium w-fit mx-auto px-2 py-1 mb-3">
+          First Month Offer*
+        </div>
+        <div className="text-center text-2xl md:text-4xl font-bold">
+          {price}
+        </div>
         <div className="text-center">{priceTagline}</div>
         <ul className={`list-inside${isPrimary ? "text-purple-600" : ""}`}>
           {usage?.map((use) => {
