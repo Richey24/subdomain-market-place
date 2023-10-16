@@ -34,7 +34,7 @@ export default function Home() {
                 className="font-bold md:text-[3.5rem] appear-animation animated fadeInUpShorter appear-animation-visible"
                 style={{ animationDelay: "600ms" }}
               >
-                People Already Using {"'Mywebstore.black.'"} Store Design
+                People Already Using {"'Mywebstore.black'"} Store Design
                 Technology
               </span>
             </h2>
