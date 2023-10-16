@@ -40,9 +40,7 @@ const MainSection: React.FC = () => {
               </span>
             </h1>
             <h4 className="custom-font-size-1 text-dark font-bold">
-              iMarketplace.World is simply the best choice for your new web
-              store. Our web store templates targeted to our community we
-              believe are among the most popular in our world without end.{" "}
+              Mywebstore.black at iMarketplace is simply the best choice for your new web store. Our web store templates targeted to our community, we believe, are among the most popular in our world without end.{" "}
               <br />
               <br />
               <span className="animate__animated animate__fadeInRight animate__delay-600ms animate__faster">
@@ -59,14 +57,23 @@ const MainSection: React.FC = () => {
                 African American, Blacks of the diaspora, Hispanic or Native
                 American, 18 years or older.
               </p>
-              <a
-                href="#intro"
-                data-hash
-                data-hash-offset="120"
-                className="px-8 py-3 rounded-md text-white btn-purple font-semibold text-color-light text-sm"
-              >
-                Join the Shopping Revolution!
-              </a>
+              <div style={{ display: "flex", alignItems: "flex-start", gap: "20px", flexWrap: "wrap" }}>
+                <a
+                  href="#intro"
+                  data-hash
+                  data-hash-offset="120"
+                  className="px-8 py-3 rounded-md text-white btn-purple font-semibold text-color-light text-sm"
+                >
+                  Join the Shopping Revolution!
+                </a>
+                <Image
+                  src="/myweb.png"
+                  alt="Landing Image"
+                  width={500}
+                  height={500}
+                  style={{ width: "17rem", height: "20rem" }}
+                />
+              </div>
             </h4>
           </div>
 

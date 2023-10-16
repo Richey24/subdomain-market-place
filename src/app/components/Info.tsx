@@ -12,7 +12,7 @@ export default function Info() {
       ></div> */}
       <div className="container  text-center my-5 py-5">
         <h2 className="font-bold leading-12 text-3xl md:text-5xl mt-5 mb-3 animate__animated animate__fadeInUp">
-          Build your web store with iMarketplace.World
+          Build your web store with Mywebstore.black.
         </h2>
         <h4 className="font-bold text-xl md:text-4xl mb-4 pb-2 animate__animated animate__fadeInUp">
           Start now for less than{" "}
@@ -22,7 +22,7 @@ export default function Info() {
         </h4>
         <div className="animate__animated animate__fadeInUp">
           <h4 className=" font-light text-lg  col-span-6 px-0 offset-span-3  mb-5 opacity-8">
-            iMarketplace.World enables you to create a web store without limits.
+            Mywebstore.black. enables you to create a web store without limits.
           </h4>
         </div>
         <div className="grid grid-cols-12 gap-4 px-0 pb-2 mb-4 place-content-center place-items-center">

@@ -34,7 +34,7 @@ export default function Home() {
                 className="font-bold md:text-[3.5rem] appear-animation animated fadeInUpShorter appear-animation-visible"
                 style={{ animationDelay: "600ms" }}
               >
-                People Already Using {"'iMarketplace.World'"} Store Design
+                People Already Using {"'Mywebstore.black.'"} Store Design
                 Technology
               </span>
             </h2>
@@ -42,7 +42,7 @@ export default function Home() {
               className="font-bold text-md text-gray-500 text-center appear-animation animated fadeInUpShorter appear-animation-visible"
               style={{ animationDelay: "750ms" }}
             >
-              100K+ IN ALL {"iMARKETPLACE.WORLD'S TECHNOLOGY'S"} VERSIONS
+              100K+ IN ALL {"Mywebstore.black.'S TECHNOLOGY'S"} VERSIONS
             </p>
             <div
               className="appear-animation animated fadeInUpShorter appear-animation-visible"
