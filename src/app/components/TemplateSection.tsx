@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function TemplateSection() {
-  const numberOfTemplate = 42;
+  const numberOfTemplate = 44;
   return (
     <section
       id="demos"
@@ -45,6 +45,7 @@ export default function TemplateSection() {
                             height="259"
                             className="img-fluid rounded-md"
                             alt=""
+                            style={{ height: "220px" }}
                           />
                         </span>
                       </span>
