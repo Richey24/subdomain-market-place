@@ -25,8 +25,8 @@ const MainSection: React.FC = () => {
             height={200}
           />
           <div className="w-full md:w-[66%]">
-            <h5 className="text-primary font-bold mb-1">
-              #1 shopping destination for melanated shoppers!
+            <h5 style={{ textTransform: "capitalize" }} className="text-primary font-bold mb-1">
+              #1 destination for melanated shoppers!
             </h5>
             <h1 className="font-bold line-height-2 text-4xl mb-12">
               Launch Your Web Store With{" "}
