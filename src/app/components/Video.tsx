@@ -29,7 +29,7 @@ export default function Video() {
               </span>
             </p>
             <p className="text-md md:text-lg negative-ls-05 pt-3 text-gray-700">
-              iMarketplace.World is simply a better choice for your new web
+              Mywebstore.black. is simply a better choice for your new web
               store. Our store templates are designed specifically to cater to
               the unique needs & preferences of sellers & buyers of our
               community. {"We're"} more than just a shopping platform & destination;
@@ -78,7 +78,7 @@ export default function Video() {
         <div className="flex flex-col md:flex-row items-center justify-center md:justify-start mt-6">
           <div className="md:w-full text-center mt-5">
             <a
-              href="https://market-place-dashboard.azurewebsites.net/register"
+              href="/pricing"
               className="rounded-full btn-purple px-6 py-4 text-md md:text-xl text-white "
               target="_blank"
               rel="noopener"

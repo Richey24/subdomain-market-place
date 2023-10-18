@@ -34,7 +34,7 @@ export default function Home() {
                 className="font-bold md:text-[3.5rem] appear-animation animated fadeInUpShorter appear-animation-visible"
                 style={{ animationDelay: "600ms" }}
               >
-                People Already Using {"'iMarketplace.World'"} Store Design
+                People Already Using {"'Mywebstore.black'"} Store Design
                 Technology
               </span>
             </h2>
@@ -42,7 +42,7 @@ export default function Home() {
               className="font-bold text-md text-gray-500 text-center appear-animation animated fadeInUpShorter appear-animation-visible"
               style={{ animationDelay: "750ms" }}
             >
-              100K+ IN ALL {"iMARKETPLACE.WORLD'S TECHNOLOGY'S"} VERSIONS
+              100K+ IN ALL {"Mywebstore.black.'S TECHNOLOGY'S"} VERSIONS
             </p>
             <div
               className="appear-animation animated fadeInUpShorter appear-animation-visible"
@@ -59,7 +59,7 @@ export default function Home() {
             <p className="text-center mb-5">
               <a
                 className="btn btn-dark btn-modern btn-rounded btn-px-5 btn-py-3 text-2 appear-animation animated fadeIn appear-animation-visible"
-                href="https://market-place-dashboard.azurewebsites.net/register"
+                href="/pricing"
                 target="_blank"
                 rel="noopener"
                 style={{ animationDelay: "250ms" }}

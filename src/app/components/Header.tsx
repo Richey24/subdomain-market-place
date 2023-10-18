@@ -3,11 +3,10 @@ import React from "react";
 
 export default function Header() {
   const nav: { title: string; url: string }[] = [
-    { title: "Store Design Template", url: "#" },
-    { title: "Reviews", url: "#" },
+    { title: "Store Design Templates", url: "#demos" },
+    { title: "Get Started Now!", url: "/pricing" },
+    { title: "ishop.black", url: "https://www.ishop.black" },
     { title: "Support", url: "#" },
-    { title: "Features", url: "#" },
-    { title: "Elements", url: "#" },
     { title: "Pricing", url: "/pricing" },
   ];
 
