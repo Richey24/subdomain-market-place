@@ -59,7 +59,7 @@ export default function Home() {
             <p className="text-center mb-5">
               <a
                 className="btn btn-dark btn-modern btn-rounded btn-px-5 btn-py-3 text-2 appear-animation animated fadeIn appear-animation-visible"
-                href="https://market-place-dashboard.azurewebsites.net/register"
+                href="/pricing"
                 target="_blank"
                 rel="noopener"
                 style={{ animationDelay: "250ms" }}

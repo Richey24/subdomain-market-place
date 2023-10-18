@@ -43,7 +43,7 @@ export default function Info() {
           </div>
         </div>
         <a
-          href="https://market-place-dashboard.azurewebsites.net/register"
+          href="/pricing"
           className="btn btn-dark btn-modern btn-rounded px-5 btn-py-3 text-4 animate__animated animate__fadeIn"
           target="_blank"
           rel="noopener"

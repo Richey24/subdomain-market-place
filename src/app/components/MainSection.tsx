@@ -59,7 +59,7 @@ const MainSection: React.FC = () => {
               </p>
               <div style={{ display: "flex", alignItems: "flex-start", gap: "20px", flexWrap: "wrap" }}>
                 <a
-                  href="#intro"
+                  href="/pricing"
                   data-hash
                   data-hash-offset="120"
                   className="px-8 py-3 rounded-md text-white btn-purple font-semibold text-color-light text-sm"

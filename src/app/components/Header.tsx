@@ -4,7 +4,7 @@ import React from "react";
 export default function Header() {
   const nav: { title: string; url: string }[] = [
     { title: "Store Design Templates", url: "#demos" },
-    { title: "Get Started Now!", url: "https://dashboard.imarketplace.world/login" },
+    { title: "Get Started Now!", url: "/pricing" },
     { title: "ishop.black", url: "https://www.ishop.black" },
     { title: "Support", url: "#" },
     { title: "Pricing", url: "/pricing" },
