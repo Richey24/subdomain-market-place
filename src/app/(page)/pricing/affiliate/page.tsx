@@ -23,32 +23,43 @@ export default function Affiliate() {
     "1 hour expert design support​",
   ];
   const pricing = [
-    // {
-    //   title: "Online Store",
-    //   description: "Get your business’s STORE setup with",
-    //   usage: useage1Month,
-    //   price: "FREE Account",
-    //   priceTagline: "Try before you buy!",
-    //   tag: "",
-    //   isPrimary: false,
-    // },
     {
-      title: "Online Store",
-      description: "Sell products and accept online payments",
-      usage: [...useage1Month, "Sell services", "Store with secure checkout"],
+      title: "Online Service",
+      description: "Sell services and accept sales leads",
+      usage: [...useage1Month, "Sell Services"],
       tag: "Monthly",
-      price: "$3.95/MO",
+      price: "$9.95/MO",
       priceTagline: "Renews at $34.99/MO",
       isPrimary: false,
     },
     {
       title: "Online Store",
       description: "Sell products and accept online payments",
-      usage: [...useage1Month, "Sell services", "Store with secure checkout"],
-      tag: "Yearly",
-      price: "$8.33/MO",
-      saving: "70% Savings on Yearly",
+      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
+      tag: "Monthly",
+      price: "$9.95/MO",
       priceTagline: "Renews at $34.99/MO",
+      isPrimary: false,
+    },
+  ];
+
+  const yearPrice = [
+    {
+      title: "Online Service",
+      description: "Sell services and accept sales leads",
+      usage: [...useage1Month, "Sell Services"],
+      tag: "Yearly",
+      price: "$13.95/MO",
+      priceTagline: "Renews at $29.99/MO",
+      isPrimary: false,
+    },
+    {
+      title: "Online Store",
+      description: "Sell products and accept online payments",
+      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
+      tag: "Yearly",
+      price: "$13.95/MO",
+      priceTagline: "Renews at $29.99/MO",
       isPrimary: false,
     },
   ];
@@ -60,11 +71,38 @@ export default function Affiliate() {
           {" "}
           Pick your website package
         </div>
+        <div className=" w-fit mx-auto shadow-md bg-opacity-70 flex gap-4 rounded-md bg-white text-amber-600 p-2">
+          <div
+            onClick={() => handlePricingSwitch("month")}
+            className={` rounded-md px-4 py-2 cursor-pointer ${
+              pricingPeriod === "month" ? "bg-amber-600 text-white" : "bg-white"
+            }`}
+          >
+            Monthly
+          </div>{" "}
+          <div
+            onClick={() => handlePricingSwitch("year")}
+            className={`rounded-md px-4 py-2 cursor-pointer ${
+              pricingPeriod === "year" ? "bg-amber-600 text-white" : "bg-white"
+            }`}
+          >
+            Yearly
+          </div>
+        </div>
       </div>
       <div className="flex flex-wrap justify-center items-start gap-6 my-12 h-auto">
-        {pricing.map((pricing) => {
-          return <PricingCard key={pricing.title} {...pricing} />;
-        })}
+        {pricingPeriod === "month" &&
+          pricing.map((pricing) => {
+            return (
+              <PricingCard key={pricing.title} {...pricing} isMain={true} />
+            );
+          })}
+        {pricingPeriod === "year" &&
+          yearPrice.map((pricing) => {
+            return (
+              <PricingCard key={pricing.title} {...pricing} isMain={true} />
+            );
+          })}
       </div>
     </div>
   );
