@@ -26,7 +26,7 @@ const MainSection: React.FC = () => {
           />
           <div className="w-full md:w-[66%]">
             <h5 className="text-primary font-bold mb-1">
-              Discover Endless Possibilities
+              #1 shopping destination for melanated shoppers!
             </h5>
             <h1 className="font-bold line-height-2 text-4xl mb-12">
               Launch Your Web Store With{" "}
