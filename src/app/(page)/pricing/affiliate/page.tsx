@@ -3,13 +3,14 @@ import React from "react";
 import PricingCard from "@/app/components/PricingCard";
 
 export default function Affiliate() {
-  const [pricingPeriod, setPricingPeriod] = React.useState<"month" | "year">(
-    "month"
+  const [pricingType, setPricingType] = React.useState<"store" | "service">(
+    "store"
   );
 
-  const handlePricingSwitch = (period: "month" | "year") => {
-    setPricingPeriod(period);
+  const handlePricingSwitch = (period: "store" | "service") => {
+    setPricingType(period);
   };
+
   const useage1Month = [
     "Easy-to-use Website Builder",
     "Free Email notification*",
@@ -22,16 +23,7 @@ export default function Affiliate() {
     "Free Business Email & SSL Certificate*",
     "1 hour expert design support​",
   ];
-  const pricing = [
-    {
-      title: "Online Service",
-      description: "Sell services and accept sales leads",
-      usage: [...useage1Month, "Sell Services"],
-      tag: "Monthly",
-      price: "$9.95/MO",
-      priceTagline: "Renews at $34.99/MO",
-      isPrimary: false,
-    },
+  const storePricing = [
     {
       title: "Online Store",
       description: "Sell products and accept online payments",
@@ -40,10 +32,31 @@ export default function Affiliate() {
       price: "$9.95/MO",
       priceTagline: "Renews at $34.99/MO",
       isPrimary: false,
+      type: "ecommerce",
+    },
+    {
+      title: "Online Store",
+      description: "Sell products and accept online payments",
+      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
+      tag: "Yearly",
+      price: "$13.95/MO",
+      priceTagline: "Renews at $29.99/MO",
+      isPrimary: false,
+      type: "ecommerce",
     },
   ];
 
-  const yearPrice = [
+  const servicePricing = [
+    {
+      title: "Online Service",
+      description: "Sell services and accept sales leads",
+      usage: [...useage1Month, "Sell Services"],
+      tag: "Monthly",
+      price: "$9.95/MO",
+      priceTagline: "Renews at $34.99/MO",
+      isPrimary: false,
+      type: "service",
+    },
     {
       title: "Online Service",
       description: "Sell services and accept sales leads",
@@ -52,15 +65,7 @@ export default function Affiliate() {
       price: "$13.95/MO",
       priceTagline: "Renews at $29.99/MO",
       isPrimary: false,
-    },
-    {
-      title: "Online Store",
-      description: "Sell products and accept online payments",
-      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
-      tag: "Yearly",
-      price: "$13.95/MO",
-      priceTagline: "Renews at $29.99/MO",
-      isPrimary: false,
+      type: "service",
     },
   ];
 
@@ -73,32 +78,32 @@ export default function Affiliate() {
         </div>
         <div className=" w-fit mx-auto shadow-md bg-opacity-70 flex gap-4 rounded-md bg-white text-amber-600 p-2">
           <div
-            onClick={() => handlePricingSwitch("month")}
+            onClick={() => handlePricingSwitch("store")}
             className={` rounded-md px-4 py-2 cursor-pointer ${
-              pricingPeriod === "month" ? "bg-amber-600 text-white" : "bg-white"
+              pricingType === "store" ? "bg-amber-600 text-white" : "bg-white"
             }`}
           >
-            Monthly
+            Online Store
           </div>{" "}
           <div
-            onClick={() => handlePricingSwitch("year")}
+            onClick={() => handlePricingSwitch("service")}
             className={`rounded-md px-4 py-2 cursor-pointer ${
-              pricingPeriod === "year" ? "bg-amber-600 text-white" : "bg-white"
+              pricingType === "service" ? "bg-amber-600 text-white" : "bg-white"
             }`}
           >
-            Yearly
+            Online Service
           </div>
         </div>
       </div>
       <div className="flex flex-wrap justify-center items-start gap-6 my-12 h-auto">
-        {pricingPeriod === "month" &&
-          pricing.map((pricing) => {
+        {pricingType === "store" &&
+          storePricing.map((pricing) => {
             return (
               <PricingCard key={pricing.title} {...pricing} isMain={true} />
             );
           })}
-        {pricingPeriod === "year" &&
-          yearPrice.map((pricing) => {
+        {pricingType === "service" &&
+          servicePricing.map((pricing) => {
             return (
               <PricingCard key={pricing.title} {...pricing} isMain={true} />
             );
