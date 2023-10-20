@@ -53,7 +53,7 @@ function PricingCard({
           >
             {title}
           </div>
-          <div className="mb-3 text-purple-50 ">{description}</div>
+          <div className="mb-3 text-purple-50 text-center">{description}</div>
         </div>
         <div className="mx-auto w-fit mb-6">
           <button
