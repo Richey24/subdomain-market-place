@@ -3,13 +3,14 @@ import React from "react";
 import PricingCard from "@/app/components/PricingCard";
 
 export default function Affiliate() {
-  const [pricingPeriod, setPricingPeriod] = React.useState<"month" | "year">(
-    "month"
+  const [pricingType, setPricingType] = React.useState<"store" | "service">(
+    "store"
   );
 
-  const handlePricingSwitch = (period: "month" | "year") => {
-    setPricingPeriod(period);
+  const handlePricingSwitch = (period: "store" | "service") => {
+    setPricingType(period);
   };
+
   const useage1Month = [
     "Easy-to-use Website Builder",
     "Free Email notification*",
@@ -22,34 +23,49 @@ export default function Affiliate() {
     "Free Business Email & SSL Certificate*",
     "1 hour expert design support​",
   ];
-  const pricing = [
-    // {
-    //   title: "Online Store",
-    //   description: "Get your business’s STORE setup with",
-    //   usage: useage1Month,
-    //   price: "FREE Account",
-    //   priceTagline: "Try before you buy!",
-    //   tag: "",
-    //   isPrimary: false,
-    // },
+  const storePricing = [
     {
       title: "Online Store",
       description: "Sell products and accept online payments",
-      usage: [...useage1Month, "Sell services", "Store with secure checkout"],
+      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
       tag: "Monthly",
-      price: "$3.95/MO",
+      price: "$9.95/MO",
       priceTagline: "Renews at $34.99/MO",
       isPrimary: false,
+      type: "ecommerce",
     },
     {
       title: "Online Store",
       description: "Sell products and accept online payments",
-      usage: [...useage1Month, "Sell services", "Store with secure checkout"],
+      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
       tag: "Yearly",
-      price: "$8.33/MO",
-      saving: "70% Savings on Yearly",
+      price: "$13.95/MO",
+      priceTagline: "Renews at $29.99/MO",
+      isPrimary: false,
+      type: "ecommerce",
+    },
+  ];
+
+  const servicePricing = [
+    {
+      title: "Online Service",
+      description: "Sell services and accept sales leads",
+      usage: [...useage1Month, "Sell Services"],
+      tag: "Monthly",
+      price: "$9.95/MO",
       priceTagline: "Renews at $34.99/MO",
       isPrimary: false,
+      type: "service",
+    },
+    {
+      title: "Online Service",
+      description: "Sell services and accept sales leads",
+      usage: [...useage1Month, "Sell Services"],
+      tag: "Yearly",
+      price: "$13.95/MO",
+      priceTagline: "Renews at $29.99/MO",
+      isPrimary: false,
+      type: "service",
     },
   ];
 
@@ -60,11 +76,38 @@ export default function Affiliate() {
           {" "}
           Pick your website package
         </div>
+        <div className=" w-fit mx-auto shadow-md bg-opacity-70 flex gap-4 rounded-md bg-white text-amber-600 p-2">
+          <div
+            onClick={() => handlePricingSwitch("store")}
+            className={` rounded-md px-4 py-2 cursor-pointer ${
+              pricingType === "store" ? "bg-amber-600 text-white" : "bg-white"
+            }`}
+          >
+            Online Store
+          </div>{" "}
+          <div
+            onClick={() => handlePricingSwitch("service")}
+            className={`rounded-md px-4 py-2 cursor-pointer ${
+              pricingType === "service" ? "bg-amber-600 text-white" : "bg-white"
+            }`}
+          >
+            Online Service
+          </div>
+        </div>
       </div>
       <div className="flex flex-wrap justify-center items-start gap-6 my-12 h-auto">
-        {pricing.map((pricing) => {
-          return <PricingCard key={pricing.title} {...pricing} />;
-        })}
+        {pricingType === "store" &&
+          storePricing.map((pricing) => {
+            return (
+              <PricingCard key={pricing.title} {...pricing} isMain={true} />
+            );
+          })}
+        {pricingType === "service" &&
+          servicePricing.map((pricing) => {
+            return (
+              <PricingCard key={pricing.title} {...pricing} isMain={true} />
+            );
+          })}
       </div>
     </div>
   );
