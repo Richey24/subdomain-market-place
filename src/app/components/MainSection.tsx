@@ -40,7 +40,9 @@ const MainSection: React.FC = () => {
               </span>
             </h1>
             <h4 className="custom-font-size-1 text-dark font-bold">
-              Mywebstore.black at iMarketplace is simply the best choice for your new web store. Our web store templates targeted to our community, we believe, are among the most popular in our world without end.{" "}
+              Mywebstore.black, the best choice for your web store or freelance service site.
+              Connect customers to your products or clients to your freelance services.
+              World's best collection of web store and service templates targeting melanated businesses.{" "}
               <br />
               <br />
               <span className="animate__animated animate__fadeInRight animate__delay-600ms animate__faster">
