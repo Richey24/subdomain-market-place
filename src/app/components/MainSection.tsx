@@ -42,7 +42,7 @@ const MainSection: React.FC = () => {
             <h4 className="custom-font-size-1 text-dark font-bold">
               Mywebstore.black, the best choice for your web store or freelance service site.
               Connect customers to your products or clients to your freelance services.
-              World's best collection of web store and service templates targeting melanated businesses.{" "}
+              {"World's"} best collection of web store and service templates targeting melanated businesses.{" "}
               <br />
               <br />
               <span className="animate__animated animate__fadeInRight animate__delay-600ms animate__faster">
@@ -55,9 +55,8 @@ const MainSection: React.FC = () => {
               </span>
               <br />
               <p className="custom-font-size-1 mt-6 mb-8">
-                <b>NOTE:</b> Eligible registrant must be an Israelite i.e.
-                African American, Blacks of the diaspora, Hispanic or Native
-                American, 18 years or older.
+                <b>NOTE:</b> {"Website's"} content & services are designed primarily to address the need of Israelites i.e. African
+                Americans, Blacks of the dispora, Hispanics & Native Americans, 18 years or older.
               </p>
               <div style={{ display: "flex", alignItems: "flex-start", gap: "20px", flexWrap: "wrap" }}>
                 <a
