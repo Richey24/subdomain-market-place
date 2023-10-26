@@ -5,7 +5,7 @@ export default function Header() {
   const nav: { title: string; url: string }[] = [
     { title: "Store Design Templates", url: "#demos" },
     { title: "Get Started Now!", url: "/pricing" },
-    { title: "Login", url: "https://dashboard.ishop.black/login" },
+    { title: "Login", url: "https://dashboard.ishop.black" },
     { title: "ishop.black", url: "https://www.ishop.black" },
     { title: "Support", url: "#" },
     { title: "Pricing", url: "/pricing" },
