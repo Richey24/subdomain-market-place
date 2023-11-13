@@ -27,7 +27,7 @@ export default function Affiliate() {
     {
       title: "Online Store",
       description: "Sell products and accept online payments",
-      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
+      usage: [...useage1Month, "Sell Products"],
       tag: "Monthly",
       price: "$9.95/MO",
       priceTagline: "Renews at $34.99/MO",
@@ -37,7 +37,7 @@ export default function Affiliate() {
     {
       title: "Online Store",
       description: "Sell products and accept online payments",
-      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
+      usage: [...useage1Month, "Sell Products"],
       tag: "Yearly",
       price: "$13.95/MO",
       priceTagline: "Renews at $29.99/MO",
@@ -99,13 +99,13 @@ export default function Affiliate() {
         {pricingType === "store" &&
           storePricing.map((pricing) => {
             return (
-              <PricingCard key={pricing.title} {...pricing} isMain={true} />
+              <PricingCard key={pricing.title} {...pricing} isMain={false} />
             );
           })}
         {pricingType === "service" &&
           servicePricing.map((pricing) => {
             return (
-              <PricingCard key={pricing.title} {...pricing} isMain={true} />
+              <PricingCard key={pricing.title} {...pricing} isMain={false} />
             );
           })}
       </div>
