@@ -71,7 +71,7 @@ export default function Pricing() {
     {
       title: "Online Service",
       description: "Sell services and accept sales leads",
-      usage: [...useage1Month, "Sell Services"],
+      usage: [...useage1Month, "Sell Services", "Payment with secure checkout"],
       tag: "Monthly",
       price: "$9.95/MO",
       priceTagline: "Renews at $34.99/MO",
@@ -81,7 +81,7 @@ export default function Pricing() {
     {
       title: "Online Service",
       description: "Sell services and accept sales leads",
-      usage: [...useage1Month, "Sell Services"],
+      usage: [...useage1Month, "Sell Services", "Payment with secure checkout"],
       tag: "Yearly",
       price: "$13.95/MO",
       priceTagline: "Renews at $29.99/MO",
@@ -98,19 +98,17 @@ export default function Pricing() {
         <div className=" w-fit mx-auto shadow-md bg-opacity-70 flex gap-4 rounded-md bg-white text-purple-600 p-2">
           <div
             onClick={() => handlePricingSwitch("store")}
-            className={` rounded-md px-4 py-2 cursor-pointer ${
-              pricingType === "store" ? "bg-purple-600 text-white" : "bg-white"
-            }`}
+            className={` rounded-md px-4 py-2 cursor-pointer ${pricingType === "store" ? "bg-purple-600 text-white" : "bg-white"
+              }`}
           >
             Online Store
           </div>{" "}
           <div
             onClick={() => handlePricingSwitch("service")}
-            className={`rounded-md px-4 py-2 cursor-pointer ${
-              pricingType === "service"
+            className={`rounded-md px-4 py-2 cursor-pointer ${pricingType === "service"
                 ? "bg-purple-600 text-white"
                 : "bg-white"
-            }`}
+              }`}
           >
             Online Service
           </div>
