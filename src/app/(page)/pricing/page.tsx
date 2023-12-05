@@ -25,7 +25,7 @@ export default function Pricing() {
     {
       title: "Free Trial",
       description: "Configure Your Online Store",
-      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
+      usage: [...useage1Month, "Sell Products"],
       price: "",
       offer: "Free",
       priceTagline: "",
@@ -37,7 +37,7 @@ export default function Pricing() {
     {
       title: "Online Store",
       description: "Sell products and accept online payments",
-      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
+      usage: [...useage1Month, "Sell Products"],
       tag: "Monthly",
       price: "$9.95/MO",
       priceTagline: "Renews at $34.99/MO",
@@ -47,7 +47,7 @@ export default function Pricing() {
     {
       title: "Online Store",
       description: "Sell products and accept online payments",
-      usage: [...useage1Month, "Sell Products", "Store with secure checkout"],
+      usage: [...useage1Month, "Sell Products"],
       tag: "Yearly",
       price: "$13.95/MO",
       priceTagline: "Renews at $29.99/MO",
@@ -60,7 +60,7 @@ export default function Pricing() {
     {
       title: "Free Trial",
       description: "Configure Your Online Service",
-      usage: [...useage1Month, "Sell  Service", "Store with secure checkout"],
+      usage: [...useage1Month, "Sell  Service"],
       price: "",
       offer: "Free",
       priceTagline: "",
