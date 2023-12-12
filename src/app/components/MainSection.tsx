@@ -25,7 +25,10 @@ const MainSection: React.FC = () => {
             height={200}
           />
           <div className="w-full md:w-[66%]">
-            <h5 style={{ textTransform: "capitalize" }} className="text-primary font-bold mb-1">
+            <h5
+              style={{ textTransform: "capitalize" }}
+              className="text-primary font-bold mb-1"
+            >
               #1 destination for melanated shoppers!
             </h5>
             <h1 className="font-bold line-height-2 text-4xl mb-12">
@@ -40,10 +43,18 @@ const MainSection: React.FC = () => {
               </span>
             </h1>
             <h4 className="custom-font-size-1 text-dark font-bold">
-              <p>Mywebstore.black at Israel Marketplace, the best choice for your web store or freelance service site.</p>
-              <p>Connect customers to your products or clients to your freelance services.</p>
-              <p>{"World's"} best collection of web store & service templates targeting melanated businesses.</p>
-              {" "}
+              <p>
+                Blackowned.store at Israel Marketplace, the best choice for your
+                web store or freelance service site.
+              </p>
+              <p>
+                Connect customers to your products or clients to your freelance
+                services.
+              </p>
+              <p>
+                {"World's"} best collection of web store & service templates
+                targeting melanated businesses.
+              </p>{" "}
               <br />
               <br />
               <span className="animate__animated animate__fadeInRight animate__delay-600ms animate__faster">
@@ -56,10 +67,19 @@ const MainSection: React.FC = () => {
               </span>
               <br />
               <p className="custom-font-size-1 mt-6 mb-8">
-                <b>NOTE:</b> {"Website's"} content & services are designed primarily to address the need of Israelites i.e. African
-                Americans, Blacks of the dispora, Hispanics & Native Americans, 18 years or older.
+                <b>NOTE:</b> {"Website's"} content & services are designed
+                primarily to address the need of Israelites i.e. African
+                Americans, Blacks of the dispora, Hispanics & Native Americans,
+                18 years or older.
               </p>
-              <div style={{ display: "flex", alignItems: "flex-start", gap: "20px", flexWrap: "wrap" }}>
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "flex-start",
+                  gap: "20px",
+                  flexWrap: "wrap",
+                }}
+              >
                 <a
                   href="/pricing"
                   data-hash

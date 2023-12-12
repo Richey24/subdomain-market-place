@@ -14,11 +14,11 @@ export default function Footer() {
             width="102"
             height="45"
             className="mb-4"
-            alt="Mywebstore.black."
+            alt="blackowned.store."
           />
         </a>
         <p className="text-4 mb-4">
-          Mywebstore.black. is exclusively available at Mywebstore.black. by{" "}
+          Blackowned.store. is exclusively available at Blackowned.store. by{" "}
           <a
             href="https://themeforest.net/user/okler/"
             className="text-white"
@@ -74,7 +74,7 @@ export default function Footer() {
       <div className="copyright bg-[#212529]  py-4">
         <div className="container text-center py-2">
           <p className="mb-0 text-2">
-            Copyright 2023 Mywebstore.black. - All Rights Reserved - Powered by
+            Copyright 2023 Blackowned.store. - All Rights Reserved - Powered by
             <a
               href="https://dreamtechlabs.net"
               className="text-color-light m-1"

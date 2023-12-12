@@ -29,13 +29,14 @@ export default function Video() {
               </span>
             </p>
             <p className="text-md md:text-lg negative-ls-05 pt-3 text-gray-700">
-              Mywebstore.black. is simply a better choice for your new web
+              Blackowned.store. is simply a better choice for your new web
               store. Our store templates are designed specifically to cater to
               the unique needs & preferences of sellers & buyers of our
-              community. {"We're"} more than just a shopping platform & destination;
-              {"we're"} a community. Your search for the best solution to sell your
-              goods is now over, create your web store here and join us & our
-              league of happy customers.
+              community. {"We're"} more than just a shopping platform &
+              destination;
+              {"we're"} a community. Your search for the best solution to sell
+              your goods is now over, create your web store here and join us &
+              our league of happy customers.
             </p>
           </div>
         </div>
