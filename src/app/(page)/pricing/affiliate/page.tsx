@@ -1,11 +1,15 @@
 "use client";
-import React from "react";
+import React, { useState } from "react";
 import PricingCard from "@/app/components/PricingCard";
+import help from "../../../help.module.css"
+import chat from "../../../message.png"
 
 export default function Affiliate() {
   const [pricingType, setPricingType] = React.useState<"store" | "service">(
     "store"
   );
+  const [show, setShow] = useState(false)
+
 
   const handlePricingSwitch = (period: "store" | "service") => {
     setPricingType(period);
@@ -73,6 +77,12 @@ export default function Affiliate() {
 
   return (
     <div>
+      {show && <div id="helpModal" className={help.helpModal}>
+        <iframe src="https://help.ishop.black/" ></iframe>
+      </div>}
+      <div onClick={() => setShow(!show)} className={help.chatModal}>
+        <img src={chat.src} alt="" />
+      </div>
       <div className="px-12 py-16 text-center text-white bg-amber-600">
         <div className="text-2xl md:text-8xl font-extrabold mb-6">
           {" "}
@@ -81,17 +91,15 @@ export default function Affiliate() {
         <div className=" w-fit mx-auto shadow-md bg-opacity-70 flex gap-4 rounded-md bg-white text-amber-600 p-2">
           <div
             onClick={() => handlePricingSwitch("store")}
-            className={` rounded-md px-4 py-2 cursor-pointer ${
-              pricingType === "store" ? "bg-amber-600 text-white" : "bg-white"
-            }`}
+            className={` rounded-md px-4 py-2 cursor-pointer ${pricingType === "store" ? "bg-amber-600 text-white" : "bg-white"
+              }`}
           >
             Online Store
           </div>{" "}
           <div
             onClick={() => handlePricingSwitch("service")}
-            className={`rounded-md px-4 py-2 cursor-pointer ${
-              pricingType === "service" ? "bg-amber-600 text-white" : "bg-white"
-            }`}
+            className={`rounded-md px-4 py-2 cursor-pointer ${pricingType === "service" ? "bg-amber-600 text-white" : "bg-white"
+              }`}
           >
             Online Service
           </div>

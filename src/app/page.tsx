@@ -9,6 +9,9 @@ import Footer from "./components/Footer";
 import TemplateSection from "./components/TemplateSection";
 import Video from "./components/Video";
 import Info from "./components/Info";
+import { useState } from "react";
+import help from "./help.module.css"
+import chat from "./message.png"
 
 const settings = {
   dots: true,
@@ -18,10 +21,18 @@ const settings = {
   slidesToScroll: 1,
 };
 export default function Home() {
+  const [show, setShow] = useState(false)
+
   return (
     <main className=" ">
       <MainSection />
       <Video />
+      {show && <div id="helpModal" className={help.helpModal}>
+        <iframe src="https://help.ishop.black/" ></iframe>
+      </div>}
+      <div onClick={() => setShow(!show)} className={help.chatModal}>
+        <img src={chat.src} alt="" />
+      </div>
       <TemplateSection />
       <div className="mt-5 ">
         <section className="section section-funnel relative z-10 border-0 !mt-0 pt-0 m-0">
