@@ -12,6 +12,7 @@ const reportModalProps = {
   saving: propTypes.string,
   offer: propTypes.string,
   isMain: propTypes.bool,
+  plan: propTypes.string,
   price: propTypes.string.isRequired,
   priceTagline: propTypes.string.isRequired,
 };
@@ -25,6 +26,7 @@ function PricingCard({
   tag,
   price,
   isMain,
+  plan,
   saving,
   offer,
   isPrimary,
@@ -59,7 +61,7 @@ function PricingCard({
           <div className="mb-3 text-purple-50 text-center">{description}</div>
         </div>
         <div className="mx-auto w-fit mb-6">
-          <Link href={`https://dashboard.ishop.black/register?type=${type}`}>
+          <Link href={`https://dashboard.ishop.black/register?type=${type}&plan=${plan}`}>
             <button
               className={`mt-4 text-white px-10 py-3  font-semibold mx-auto mb-4 rounded-md ${
                 isMain ? "bg-purple-600" : "bg-amber-600"
