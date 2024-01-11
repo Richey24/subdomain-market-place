@@ -36,6 +36,7 @@ export default function Pricing() {
       tag: "Monthly",
       isPrimary: false,
       type: "ecommerce",
+      plan: "monthly"
     },
 
     {
@@ -47,6 +48,7 @@ export default function Pricing() {
       priceTagline: "Renews at $34.99/MO",
       isPrimary: false,
       type: "ecommerce",
+      plan: "monthly"
     },
     {
       title: "Online Store",
@@ -58,6 +60,7 @@ export default function Pricing() {
       priceTagline: "Renews at $29.99/MO",
       isPrimary: false,
       type: "ecommerce",
+      plan: "yearly"
     },
   ];
 
@@ -72,6 +75,7 @@ export default function Pricing() {
       tag: "Monthly",
       isPrimary: false,
       type: "service",
+      plan: "monthly"
     },
     {
       title: "Online Service",
@@ -82,6 +86,7 @@ export default function Pricing() {
       priceTagline: "Renews at $34.99/MO",
       isPrimary: false,
       type: "service",
+      plan: "monthly"
     },
     {
       title: "Online Service",
@@ -93,6 +98,7 @@ export default function Pricing() {
       priceTagline: "Renews at $29.99/MO",
       isPrimary: false,
       type: "service",
+      plan: "yearly"
     },
   ];
   return (
